@@ -1,0 +1,1 @@
+# Advanced-Grape-Leaf-Disease-Diagnosis-Using-EfficientNetV2L-with-Data-Augmentation-
